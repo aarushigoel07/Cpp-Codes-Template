@@ -24,3 +24,4 @@ int main()
 }
 
 /*shows error that i,j and f1() are declared private*/ 
+
